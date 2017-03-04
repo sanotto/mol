@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{0B52483B-8E6C-4D6C-A217-E323EC68779A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="mol/src/Lexer.cs">
+﻿<Properties StartupConfiguration="{0B52483B-8E6C-4D6C-A217-E323EC68779A}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mol Status">
     <Files>
       <File FileName="mol/src/Lexer.cs" Line="1" Column="1" />
       <File FileName="mol/src/Statements/AssignStatement.cs" Line="1" Column="1" />
@@ -17,6 +17,8 @@
       <File FileName="mol/src/Values/NumberValue.cs" Line="1" Column="1" />
       <File FileName="mol/src/Expressions/OperatorExpression.cs" Line="1" Column="1" />
       <File FileName="mol/Samples/Test1.mol" Line="1" Column="1" />
+      <File FileName="README.md" Line="3" Column="54" />
+      <File FileName="mol Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
