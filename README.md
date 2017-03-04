@@ -20,3 +20,28 @@ I've converted the PHP version to C# and improved it with the following features
 - Support for While-Wend.
 - Support gor Gosub and retun.
 - Support for sin, cos, int, round, trim, ltrin, rtrim and substr functions not present in the original version.
+
+An example of the code interpreted by this interpretes is :
+
+```basic
+
+Print "Please enter a value"
+Input a
+
+i=0
+
+DoWhile i <=10
+  Exsr PrintEntry
+  i=i+1
+EndDo
+
+EndPgm
+
+BegSr PrintEntry
+
+  Print i + " Multiplied by " + a + " equals " + (i*a)
+
+EndSr
+
+
+```
