@@ -1,0 +1,5 @@
+/home/sanotto/Laboratorio/CSharp/mol/mol/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sanotto/Laboratorio/CSharp/mol/mol/bin/Debug/mol.exe.mdb
+/home/sanotto/Laboratorio/CSharp/mol/mol/bin/Debug/mol.exe
+/home/sanotto/Laboratorio/CSharp/mol/mol/obj/x86/Debug/mol.exe
+/home/sanotto/Laboratorio/CSharp/mol/mol/obj/x86/Debug/mol.exe.mdb
